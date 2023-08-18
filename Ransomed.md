@@ -3,7 +3,7 @@
 ## create a new user
 Code: sudo useradd Tobi
 **Screenshot of the user add process below;**
-[Sudo Useradd Tobi](/ScreenShot_Vagrantfile_useradd.png)
+(/ScreenShot_Vagrantfile_useradd.png)
 
 
 ## set an expiry date of 2weeks for the user
